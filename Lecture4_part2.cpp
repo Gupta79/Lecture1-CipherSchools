@@ -2,8 +2,6 @@
 using namespace std;
 int main(){
     
-    //  THIS IS IF ELSE STATEMENT
-
     int age;
     cout<<"enter your age : ";
     cin>>age;
@@ -18,7 +16,6 @@ int main(){
         cout<<"you are not eligible to drive";
     }
     cout<<endl;
-    //Swtich case statement
 
     int marks;
     cin>>marks;
