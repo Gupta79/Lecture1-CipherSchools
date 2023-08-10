@@ -2,7 +2,6 @@
 using namespace std;
 int main(){
     
-    //WHILE
     int m , i = 0;
     cin>>m;
     while(i < m){
